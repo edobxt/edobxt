@@ -9,7 +9,7 @@ If you want to know more about me, checkout my website [jkancel.dev](https://jka
 
 ## Favorite framework
 - Next.js
-- React
+- Svelte
 
 ## Favorite food
 - Rice and ouassous
