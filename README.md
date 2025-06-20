@@ -1,16 +1,13 @@
-# Hi, I'm Jonathan
-a junior developper and student based in Guadeloupe.
-If you want to know more about me, checkout my website [jkancel.dev](https://jkancel.dev)
+# 👋 Hi, I'm Jonathan
 
-## Favorite programming language
+I'm a **Full Stack Developer** based in **Guadeloupe** 💚❤️💛, passionate about building performant and elegant web applications.
+
+## 🚀 Tech Stack
+
+**Languages:**
 - TypeScript
-- Java
-- PHP
+- Go
 
-## Favorite framework
+**Frameworks & Tools:**
 - Next.js
-- Svelte
-
-## Favorite food
-- Rice and ouassous
-- Fried chicken
+- Fiber (Go)
